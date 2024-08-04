@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+ A user-friendly and responsive frontend editor for HTML, CSS, and JavaScript, enabling real-time code editing and previewing.
+ Implemented features like code autocompletion ,syntax highlighting and clipboard copy functionality 
+ Added a theme toggle button to switch between dark and light modes and a copy to clipboard functionality for better user experience.
+
+ This is designed keeping in mind the new developers trying to learn HTML CSS JS and want to test their learnings on a platofrm without creating any extra files for using any IDE's
+
 ## Available Scripts
 
 In the project directory, you can run:
