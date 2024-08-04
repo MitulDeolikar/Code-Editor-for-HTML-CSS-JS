@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "allowJs": true,             // Allows JavaScript files to be compiled.
+      "checkJs": false,            // Disables type checking on JavaScript files.
+      "noEmit": true,              // Disables emitting output files. Useful for type-checking only.
+      "resolveJsonModule": true,   // Allows importing JSON files.
+      "esModuleInterop": true,     // Enables compatibility with CommonJS modules.
+      "skipLibCheck": true         // Skips type checking of declaration files (.d.ts).
+    },
+    "include": [
+      "src/**/*",                  // Includes all files in the src directory.
+      "declarations.d.ts"          // Includes the custom declarations file.
+    ]
+  }
+  
